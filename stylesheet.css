@@ -1,0 +1,35 @@
+body {
+    background-image: ;
+     font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    width: 70%;
+    margin: 0 auto;
+}
+h1{
+    
+    font-size: 45pt;
+    
+}
+h2{
+    padding: 2% 0;
+}
+header{
+    text-align: center;
+    padding: 5%
+
+}
+section{
+    padding: 20px;
+}
+img{
+    margin:0 30%;
+    padding-top: 35px;
+}
+ol{
+    list-style:none;
+}
+li{
+    padding: 5px;
+}
