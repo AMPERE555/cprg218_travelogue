@@ -1,34 +1,62 @@
-body {
-    background-image: ;
-     font-family: "Outfit", sans-serif;
-    font-optical-sizing: auto;
+
+body{
+    background-image: url(img/backgroundimagetraveloguelargeone.webp);
+}
+div {
+    font-family: "Outfit", sans-serif;
     font-weight: 400;
     font-style: normal;
     width: 70%;
     margin: 0 auto;
 }
 h1{
-    
     font-size: 45pt;
+    color: antiquewhite;
     
 }
+
 h2{
     padding: 2% 0;
 }
+
 header{
     text-align: center;
-    padding: 5%
+    padding: 2% 0;
+    margin: 5% 0;
+    background-color: rgba(0, 157, 255, 0.844);
+    border-radius: 300px;
 
+}
+#tagline{
+    font-size: 20pt;
+}
+main{
+    background-color:  rgba(255, 255, 255, 0.5);
+    border-radius: 16px;
+    padding-bottom: 20px;
 }
 section{
     padding: 20px;
 }
-img{
-    margin:0 30%;
-    padding-top: 35px;
+#intro{
+    background-color: rgb(7, 101, 0);
+    color: antiquewhite;
+    border-radius: 16px;
+    padding: 20px;
 }
+img{
+    margin:0 25%;
+    margin-top: 35px;
+    border-radius: 10px;
+}
+footer{
+    font-size: small;
+    padding: 8% 0 3% 8%;
+}
+
 ol{
     list-style:none;
+    
 }
 li{
     padding: 5px;
